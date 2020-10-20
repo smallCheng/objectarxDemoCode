@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModalDialog", "ModalDialog\ModalDialog_VS2005.vcproj", "{44ED3B11-BB96-4860-A398-19EEA9EFB741}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UseReactor", "UseReactor\UseReactor_VS2005.vcproj", "{955DEA62-8303-4318-A53B-6540684C3C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44ED3B11-BB96-4860-A398-19EEA9EFB741}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44ED3B11-BB96-4860-A398-19EEA9EFB741}.Debug|Win32.Build.0 = Debug|Win32
+		{44ED3B11-BB96-4860-A398-19EEA9EFB741}.Release|Win32.ActiveCfg = Release|Win32
+		{44ED3B11-BB96-4860-A398-19EEA9EFB741}.Release|Win32.Build.0 = Release|Win32
+		{955DEA62-8303-4318-A53B-6540684C3C18}.Debug|Win32.ActiveCfg = Debug|Win32
+		{955DEA62-8303-4318-A53B-6540684C3C18}.Debug|Win32.Build.0 = Debug|Win32
+		{955DEA62-8303-4318-A53B-6540684C3C18}.Release|Win32.ActiveCfg = Release|Win32
+		{955DEA62-8303-4318-A53B-6540684C3C18}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffCreate3DSolid"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

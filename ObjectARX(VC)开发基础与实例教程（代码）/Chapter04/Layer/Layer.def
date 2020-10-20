@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffLayer"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

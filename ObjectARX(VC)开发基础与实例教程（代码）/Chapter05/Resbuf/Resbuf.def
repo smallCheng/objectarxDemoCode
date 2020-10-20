@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffResbuf"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

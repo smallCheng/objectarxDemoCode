@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffUseReactor"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

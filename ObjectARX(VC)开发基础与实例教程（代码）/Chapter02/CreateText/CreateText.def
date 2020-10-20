@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffCreateText"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

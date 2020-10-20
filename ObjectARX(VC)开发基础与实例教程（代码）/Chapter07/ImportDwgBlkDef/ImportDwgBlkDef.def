@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffImportDwgBlkDef"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

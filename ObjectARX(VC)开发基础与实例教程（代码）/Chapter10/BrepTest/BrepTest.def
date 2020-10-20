@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffBrepTest"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffDwgDocument"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffCustomObject"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

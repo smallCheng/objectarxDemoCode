@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffBinaryFile"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

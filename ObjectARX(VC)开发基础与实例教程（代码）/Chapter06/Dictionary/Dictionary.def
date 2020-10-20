@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffDictionary"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

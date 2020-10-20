@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffCreateBlockDefine"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

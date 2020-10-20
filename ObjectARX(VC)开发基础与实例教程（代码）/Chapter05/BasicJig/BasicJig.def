@@ -1,0 +1,7 @@
+
+LIBRARY      "ZfgkBasicJig"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

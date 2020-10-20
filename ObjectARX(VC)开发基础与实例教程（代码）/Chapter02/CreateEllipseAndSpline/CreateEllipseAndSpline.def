@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffCreateEllipseAndSpline"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffAdoAccess"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

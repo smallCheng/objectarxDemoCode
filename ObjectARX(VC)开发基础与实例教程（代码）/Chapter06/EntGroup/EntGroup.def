@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffEntGroup"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

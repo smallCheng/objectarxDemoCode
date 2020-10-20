@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffOperateUCS"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffUseExcel"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

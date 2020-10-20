@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffDockControlBar"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

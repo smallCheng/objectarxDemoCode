@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffPointRelationToPolyline"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

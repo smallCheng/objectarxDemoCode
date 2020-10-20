@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffCreateArc"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

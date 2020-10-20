@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffCreateDimension"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

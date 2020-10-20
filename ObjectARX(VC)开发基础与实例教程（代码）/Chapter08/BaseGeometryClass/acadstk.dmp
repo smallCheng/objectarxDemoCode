@@ -1,0 +1,29 @@
+[Main]
+DumpEntries=1
+[AcadCrashDump1]
+ExeTimeDateStamp=0x3AE3DE35
+CrashTimeDateStamp=0x52F0D04C
+acadVer=15.06
+WinVer=0x1DB10106
+DumpType=InternalError
+ErrorText=!U:\global\src\ObjectDbx\DB\IMP\src\dbobji.cpp@5619: eNotOpenForWrite
+ContextFlags=0x10007
+SegGs=0x2B
+SegFs=0x53
+SegEs=0x2B
+SegDs=0x2B
+Edi=0x50EFAAE
+Esi=0x50EFAAD
+Ebx=0x50EFC95
+Edx=0x0
+Ecx=0x0
+Eax=0x0
+Ebp=0x50EEB98
+Eip=0x7B380D
+SegCs=0x23
+EFlags=0x200246
+Esp=0x50EEB88
+SegSs=0x2B
+ReferenceAddr=0x91D7C4
+ReferenceName=_WinMain@16
+StackWalk0=50EF7A8,3B280D,1,SymExport,GetViewportInfo+343D,C:\Program Files\AutoCAD 2002\acad.exe

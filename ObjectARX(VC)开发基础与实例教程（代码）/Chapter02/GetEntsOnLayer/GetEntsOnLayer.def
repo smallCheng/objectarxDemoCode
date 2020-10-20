@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffGetEntsOnLayer"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

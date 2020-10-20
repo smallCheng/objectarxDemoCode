@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffCreateLine"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffUserInteraction"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

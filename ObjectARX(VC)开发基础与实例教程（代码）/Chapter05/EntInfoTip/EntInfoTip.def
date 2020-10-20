@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffEntInfoTip"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

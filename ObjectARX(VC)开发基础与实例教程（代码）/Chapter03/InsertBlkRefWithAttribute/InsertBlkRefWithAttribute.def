@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffInsertBlkRefWithAttribute"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffChangeView"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

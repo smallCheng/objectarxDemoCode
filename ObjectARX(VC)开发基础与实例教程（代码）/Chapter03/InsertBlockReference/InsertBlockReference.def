@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffInsertBlockReference"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

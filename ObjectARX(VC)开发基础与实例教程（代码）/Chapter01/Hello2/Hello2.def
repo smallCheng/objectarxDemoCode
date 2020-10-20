@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffHello2"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

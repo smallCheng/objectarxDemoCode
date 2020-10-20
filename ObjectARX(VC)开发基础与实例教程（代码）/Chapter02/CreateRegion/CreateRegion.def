@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffCreateRegion"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

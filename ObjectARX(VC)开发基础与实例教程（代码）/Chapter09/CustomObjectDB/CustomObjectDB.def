@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffCustomObjectDB"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

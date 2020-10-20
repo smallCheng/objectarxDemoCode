@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffModalDialog"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffGridDialog"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

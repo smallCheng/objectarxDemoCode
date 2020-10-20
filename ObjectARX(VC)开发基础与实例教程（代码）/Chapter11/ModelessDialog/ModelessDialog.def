@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffModelessDialog"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

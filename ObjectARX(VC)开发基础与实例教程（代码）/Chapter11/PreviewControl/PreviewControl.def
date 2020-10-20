@@ -1,0 +1,7 @@
+
+LIBRARY      "ZfgkPreviewControl"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

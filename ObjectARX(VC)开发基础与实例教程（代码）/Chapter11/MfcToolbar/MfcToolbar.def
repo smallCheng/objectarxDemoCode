@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffMfcToolbar"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

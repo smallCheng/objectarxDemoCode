@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffPromptSelectEnts"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

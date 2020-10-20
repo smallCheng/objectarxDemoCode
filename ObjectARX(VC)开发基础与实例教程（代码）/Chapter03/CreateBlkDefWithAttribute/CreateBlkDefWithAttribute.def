@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffCreateBlkDefWithAttribute"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

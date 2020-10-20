@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffDrawRectPipe"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+

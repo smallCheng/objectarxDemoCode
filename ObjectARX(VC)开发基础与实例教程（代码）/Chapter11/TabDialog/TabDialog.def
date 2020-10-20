@@ -1,0 +1,7 @@
+
+LIBRARY      "ZffTabDialog"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+
